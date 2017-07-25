@@ -16,7 +16,7 @@ Features of the Calculator:
 (13).Find asin
 (14).Find atan
 (15).Find PI
-(16)Find e
+(16).Find e
 (17).Find log10
 (18).Find length of the vector from the origin to point (x, y)
 (19).Convert angle x into degrees
